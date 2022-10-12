@@ -18,3 +18,16 @@ NOTE change "tsconfigRootDir". If you install this app.
 
 6) `npm install --save-dev ts-node-dev`
 
+7) making index.ts inside src folder and adjusting script likewise.
+
+8) creating router under `src/routes` which are responsible for handling a set of specific resources such as diaries (`diaries.ts`) .
+
+9) We will create a `service` which takes care of the data manipulation. [`src/services`]
+
+The name service originates from <a href="https://en.wikipedia.org/wiki/Domain-driven_design">`Domain-driven design`</a> and was made popular by the `Spring` framework.
+
+10) `types.ts`, where we'll define all our types for this project
+
+11) Changing `diaries.json` to `diaries.ts`
+
+12) Utility type `Pick` and `Omit`
