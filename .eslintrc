@@ -26,6 +26,6 @@
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "project": "./tsconfig.json",
-    "tsconfigRootDir":"/home/rahul/dev/2022/"
+    "tsconfigRootDir":"/home/rahul/dev/2022/ilarisFlightDiaries/"
   }
 }
